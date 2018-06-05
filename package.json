@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+  ,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-wells/next-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-wells/next-repo/issues"
+  },
+  "homepage": "https://github.com/r-wells/next-repo#readme",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
